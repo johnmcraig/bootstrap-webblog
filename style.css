@@ -1,0 +1,23 @@
+ul li {
+    list-style: none;
+}
+
+.nav-bar, footer {
+    background-color: #3E4649;
+}
+
+.nav-bar a {
+    color: #FAFAFA;
+}
+
+footer li {
+    list-style: none;
+    color: #ffffff;
+}
+
+footer {
+    position: absolute;
+    padding: 25px 0;
+    margin: 0 10px;
+    width: 100%;
+}
